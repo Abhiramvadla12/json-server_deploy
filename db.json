@@ -546,7 +546,7 @@
       "phone": "1234567890"
     }
   ],
-  "payment details": [
+  "payment_details": [
     {
       "id": "1",
       "username": "abhiram",
